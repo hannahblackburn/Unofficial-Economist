@@ -1,9 +1,3 @@
----
-layout: page
-title: Unofficial Economist
-tagline: How to make it official
----
+# Why didn't this work with YML?
 
-Here's some example text.
-
-I write a lot!
+Hmmmm
